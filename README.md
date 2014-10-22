@@ -1,4 +1,4 @@
-<h1>Welcome to the my streamlining-aws documentation.<br><br>This is a work in progress. Don't expect it to be functional</h1>
+<h1>Welcome to the documentation for my working project to streamline AWS.<br><br>This is a work in progress. Don't expect it to be functional</h1>
 
 I'm working on the task of rudimentary data analysis on a dataset that that is just-barely-too-large-for-a-single-computer-to-think-about. The goals for this repository are:<br>
 <br>
