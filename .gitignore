@@ -1,2 +1,8 @@
 # Ignore all emacs backup files
 *~
+
+#Ignore all .conf files, which hold credentials
+*.conf
+
+#Don't add python compiled code to git
+*.pyc
