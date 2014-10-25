@@ -1,3 +1,7 @@
+### The purpose of this file is primarily to translate the Python language
+### into human-readable function names for the PM, who is inexperienced with 
+### OOP, but will need to use Python to compute on AWS
+
 import boto
 import boto.s3.connection
 import credentials

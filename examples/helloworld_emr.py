@@ -9,7 +9,7 @@ job_ts = datetime.now().strftime("%Y%m%d%H%M%S")
 emr = EmrConnection()
 
 # Python files must be hosted on s3 and linked to for execution.
-## [ ] TODO(Rosem3ri): Check the docs for StreamingStep and understand
+## [ ] TODO(emmagras): Check the docs for StreamingStep and understand
 ##     the arguments below.
 wc_step = StreamingStep('wc text', \
   's3://elasticmapreduce/samples/wordcount/wordSplitter.py', \
